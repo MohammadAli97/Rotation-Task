@@ -1,0 +1,2 @@
+wget
+numpy-stl>=2.17.1
